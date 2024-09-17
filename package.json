@@ -15,7 +15,10 @@
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview",
-  "start": "vite"
+    
+  "dev": "vite",
+  "build": "vite build",
+  "start": "vite preview --port $PORT"   // Ensure the app runs on Render's provided port
 },
   "dependencies": {
     "@emotion/react": "^11.13.3",
