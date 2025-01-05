@@ -61,7 +61,8 @@ export default function SearchBox({ updateInfo }) {
                 setError(true);
             }
         }
-        
+
+        // Don't Define Credntials here, Create Environment Variables for it (.env File
         const API_URL = "https://api.openweathermap.org/data/2.5/weather"
         const API_KEY = "50aceb14cd2acec39dd0ace2f20c7490"
     
