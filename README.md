@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Render -> Click [New Weather App Link](https://new-link.com)
+Vercel -> Click [Another Weather App Link](https://weather-app-react-five-lovat.vercel.app)
 <br>
-Vercel -> Click [Another Weather App Link](https://another-new-link.com)
+Render -> Click [New Weather App Link](https://weather-app-react-jn7n.onrender.com)
 
